@@ -2,7 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello world"
-              << "\n";
+    std::cout << "The magic number is: " << 5 + 5;
     return 0;
 }
