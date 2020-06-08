@@ -1,0 +1,152 @@
+[33mcommit 302544ddcdd938a3abf965663f0ee18b95df0a17[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 13:55:39 2020 +0200
+
+    Add emphasis
+
+[33mcommit 351edb4583e5dae37f2854b0990724f47b773320[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 13:47:55 2020 +0200
+
+    Add LICENSE
+
+[33mcommit 9534c7f415e725733cb0563429f1eac7a96cf2bc[m
+Merge: 7afd718 759b3a0
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 13:09:08 2020 +0200
+
+    Merge branch 'conflicting_feature'
+
+[33mcommit 7afd71817638b25172c3c6e6e730205ddb1d5878[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 12:57:43 2020 +0200
+
+    Explain why git is awesome
+
+[33mcommit 759b3a006232bfb3e088cce944647f89c5988127[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 12:56:13 2020 +0200
+
+    Add checkout -b to the commands we learned
+
+[33mcommit eb5d4cdaf664a7df423b28129d4a3b3af0d816c0[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 12:55:55 2020 +0200
+
+    Explain how to switch to a new branch
+
+[33mcommit 7146bfc896c53ca92cbb8826d5d8fd9b281ab23d[m
+Merge: 0e5d782 024f106
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:44:20 2020 +0200
+
+    Merge branch 'create_awesome_new_feature'
+
+[33mcommit 024f1065b10e62dcbec1c51851efc6d24b5eb9a0[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:42:02 2020 +0200
+
+    Update script
+
+[33mcommit 0e5d782cb27fc6be1cdaeec3554991774e8866de[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:41:03 2020 +0200
+
+    Add merge command
+
+[33mcommit bb7fa7b337b85feca42bfd254755f1fa38c069b6[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:39:50 2020 +0200
+
+    Add magic number printout
+
+[33mcommit 36dcd3a97ddcbca53061e41a939242d36749734d[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:38:55 2020 +0200
+
+    Create initial feature
+
+[33mcommit 75c86609ec65bbdcebae18af84ddd703d9a9d1d5[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:33:35 2020 +0200
+
+    Add super cool library
+
+[33mcommit d0a68aaac4e67fcca2d001e1cdc69f2c3bd793fc[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:24:28 2020 +0200
+
+    Add new project structure
+
+[33mcommit eb4436091dca4c7dd952c48820c25e2fb977ec5f[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:18:27 2020 +0200
+
+    Add branch and checkout commands
+
+[33mcommit 6cc97aba1f79d6da0f347d9053ed274077d738b1[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 11:16:22 2020 +0200
+
+    Move readme to docs directory
+
+[33mcommit c06988023bbc0190423a4f6114f3fa710dc50160[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:34:47 2020 +0200
+
+    Remove another bad file
+
+[33mcommit bcfc117e27e68bd3d8cacd1df6d46b1cd2a8a242[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:33:37 2020 +0200
+
+    Add another bad file
+
+[33mcommit 21ef9f4e5ebd08e16b20b7f62f1651fc22d4dedc[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:32:58 2020 +0200
+
+    Remove the bad file
+
+[33mcommit b8a4e2719f5346cc813c52994d4c38b8bad46e07[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:31:00 2020 +0200
+
+    Add some bad file
+
+[33mcommit ff0055c49ce5e1a548c3fe0a42ae2d75e410ce62[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:23:47 2020 +0200
+
+    Add a list of the commands we learned
+
+[33mcommit c6a6f66f33f576ce3c6315380385e837f6759383[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:18:33 2020 +0200
+
+    Ignore .obj
+
+[33mcommit 66282619b17fe23e19c2441690f60723a64bda50[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:18:10 2020 +0200
+
+    Add .gitignore
+
+[33mcommit 40fa4d3b48d0ca7e5d2fe6714a304d4a308830f1[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 10:10:34 2020 +0200
+
+    Document command for changing text editor
+    
+    Vi is weird and confusing so it's good to set
+    nano as the default text editr
+
+[33mcommit 634565f0882aecbf88524af3fdc94e635e1a51f1[m
+Author: platisd <platisd@users.noreply.github.com>
+Date:   Mon Jun 8 09:57:28 2020 +0200
+
+    Add initial README
+    
+    Add an initial README file to document the commands
+    we are running and for other users to know what this
+    is about.
