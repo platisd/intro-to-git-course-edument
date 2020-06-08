@@ -1,3 +1,2 @@
-Bara lite text
-
-Changing something
+Swedish: Bara lite text
+English: Just some text
