@@ -13,3 +13,5 @@
 * `git add`
 * `git init`
 * `git diff`
+* `git branch`
+* `git checkout`
