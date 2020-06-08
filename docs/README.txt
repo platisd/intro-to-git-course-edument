@@ -16,3 +16,4 @@
 * `git branch`
 * `git checkout`
 * `git merge`
+* `git checkout -b`
