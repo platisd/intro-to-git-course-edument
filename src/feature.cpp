@@ -12,3 +12,8 @@ int main()
     }
     return 0;
 }
+
+If(i < 10){
+	i++;
+}
+
