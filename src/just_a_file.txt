@@ -1,1 +1,2 @@
-Bara lite text
+Swedish: Bara lite text
+English: Just some text
